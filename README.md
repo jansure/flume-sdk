@@ -29,7 +29,6 @@ apache-flume-1.8.0-bin也可以在windows环境下,通过cmd命令收集指定�
 ## 提交反馈
 - 1、欢迎提交 issue，请写清楚遇到问题的原因，开发环境，复显步骤。
 
-- 2、有问题联系kbping@qq.com
 
 ### 注意：
 因windows系统不支持tail -f xx.log命令，需要下载tail.exe,安装在C:\Windows\System32目录下。
